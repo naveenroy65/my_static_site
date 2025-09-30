@@ -29,9 +29,11 @@ Check out the live website here:
 1. Clone the repository:
 ```bash
 git clone https://github.com/<your-username>/my-static-site.git
+```
 Navigate into the folder:
-
+```bash
 cd my-static-site
+```
 Open index.html in your browser to view the website locally.
 
 Deployment
